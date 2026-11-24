@@ -1,0 +1,12 @@
+{
+  "name": "asset-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IT asset management portal with Windows inventory agent",
+  "type": "module",
+  "main": "server.js",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  }
+}
