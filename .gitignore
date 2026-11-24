@@ -4,4 +4,3 @@ agent/dist/
 **/__pycache__/
 server/data/
 server/downloads/*.exe
-
